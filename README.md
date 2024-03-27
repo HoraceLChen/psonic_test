@@ -1,7 +1,7 @@
 # Psonic Technical Challenge
 Technical challenge
 
-<h1>Instructions to testthis file</h1>
+<h1>Instructions to test this file</h1>
 
 1. clone repo to your machine
 2. open terminal in cloned project directory
